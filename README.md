@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs ,NodeJS , NextJs**
 
-- 📝 I regularly write articles on [linkedin](www.linkedin.com/in/rehminajib)
+- 📝 I regularly write articles on [Linkedin](www.linkedin.com/in/rehminajib)
 
 - 💬 Ask me about **ReactJs , Laravel , Java , Android and mysql**
 
