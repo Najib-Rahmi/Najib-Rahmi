@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Najib Rahmi</h1>
 <h3 align="center">I am a full-stack developer. I am endowed with a great capacity of adaptation and trustworthy in the realization of my missions. I have a strong ability to acquire new knowledge and I believe in the power of teamwork.</h3>
 
-- 🌱 I’m currently learning **ReactJs ,NodeJS , NextJs**
+- 🌱 I’m currently learning **ReactJs ,NodeJS , ExpressJs**
 
 - 📝 I regularly write articles on Linkedin
 
